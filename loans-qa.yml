@@ -8,7 +8,7 @@ build:
   version: 2.0-qa
 
 loans:
-  contact-info:
+  contactInfo:
     name: Vinayak R
     address: Melville Park
     phone: +65 85136635
