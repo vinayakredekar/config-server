@@ -7,7 +7,8 @@ spring:
 build:
   version: 2.0-qa
 
-contact-info:
-  name: Vinayak R
-  address: Melville Park
-  phone: +65 85136635
+loans:
+  contact-info:
+    name: Vinayak R
+    address: Melville Park
+    phone: +65 85136635
