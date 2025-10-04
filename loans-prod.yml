@@ -5,7 +5,7 @@ spring:
       on-profile: "prod"
 
 build:
-  version: 2.0-prod
+  version: 2.0-prod-update
 
 contact-info:
   name: "{cipher}b4c7069f3aa03072263241226935e5fbb1539fff100d7bc0a140aaf8b1b1a13515ab57f3a824da61e3155cc41c026e67"
